@@ -1,5 +1,3 @@
-# 🚧 WORK IN PROGRESS. See [#1](https://github.com/kevfoste/octoherd-script-add-gitignore/pull/1) | [Preview](https://github.com/kevfoste/octoherd-script-add-gitignore/tree/initial-version)
-
 # octoherd-script-add-gitignore
 
 > Add .gitignore template file to repository
