@@ -1,0 +1,2 @@
+*.gzip
+node_modules
