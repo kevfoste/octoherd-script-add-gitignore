@@ -1,0 +1,28 @@
+{
+  "name": "octoherd-add-gitignore",
+  "version": "0.0.0-development",
+  "type": "module",
+  "exports": "./script.js",
+  "bin": {
+    "octoherd-script-add-gitignore": "./cli.js"
+  },
+  "description": "Add .gitignore template file to repository",
+  "scripts": {
+    "start": "node cli.js",
+    "test": "node script.js"
+  },
+  "repository": "https://github.com/kevfoste/octoherd-script-add-gitignore",
+  "keywords": [
+    "octoherd-script"
+  ],
+  "author": "Kevin Foster (https://github.com/kevfoste)",
+  "license": "ISC",
+  "dependencies": {
+    "@octoherd/cli": "^3.6.5"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
